@@ -1,0 +1,7 @@
+drawable\dotnet_bot_devices;drawable\dotnet_bot_devices
+mipmap\appicon;mipmap\appicon
+mipmap\appicon_background;mipmap\appicon_background
+mipmap\appicon_foreground;mipmap\appicon_foreground
+mipmap\appicon_round;mipmap\appicon_round
+values\colors;values\colors
+values\strings;values\strings
