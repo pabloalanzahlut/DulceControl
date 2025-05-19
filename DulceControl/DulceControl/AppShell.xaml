@@ -6,4 +6,7 @@
 
     <ShellContent Title="Pedidos" ContentTemplate="{DataTemplate pages:MainPage}" />
 
+    <ShellContent Title="Nuevo Pedido" ContentTemplate="{DataTemplate local:AgregarPedidoPage}" Route="AgregarPedidoPage"/>
+
+
 </Shell>

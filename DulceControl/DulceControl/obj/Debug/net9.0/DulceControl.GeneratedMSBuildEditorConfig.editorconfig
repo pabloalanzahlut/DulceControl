@@ -14,6 +14,12 @@ build_property.EnableGeneratedComInterfaceComImportInterop =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[J:/PROYECTOS C\#/DulceControl/DulceControl/DulceControl/AgregarPedidoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DulceControl.AgregarPedidoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AgregarPedidoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AgregarPedidoPage.xaml
+
 [J:/PROYECTOS C\#/DulceControl/DulceControl/DulceControl/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DulceControl.App.xaml

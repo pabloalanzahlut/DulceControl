@@ -1,30 +1,42 @@
-﻿using PastelitosApp.Models;
-using PastelitosApp.Services;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
+using Microsoft.Maui.Controls;
 
-namespace PastelitosApp;
-
-public partial class MainPage : ContentPage
+namespace PastelitosApp
 {
-    private ObservableCollection<Pedido> _pedidos;
-
-    public MainPage()
+    public partial class MainPage : ContentPage
     {
-        InitializeComponent();
-        _pedidos = new ObservableCollection<Pedido>();
-        PedidosCollectionView.ItemsSource = _pedidos;
+        // Colección observable para la lista de pedidos
+        public ObservableCollection<Pedido> Pedidos { get; set; }
 
-        CargarPedidos();
+        public MainPage()
+        {
+            InitializeComponent();
+
+            // Inicializar lista de pedidos con datos de ejemplo
+            Pedidos = new ObservableCollection<Pedido>
+            {
+                new Pedido { Nombre = "Fer Di Ioro", Detalle = "4 / 2 $2400", Estado = "Pedido", Pastelitos = "Membrillo: 95, Batata: 92", Pagado = false, Entregado = false },
+                // Agrega más pedidos aquí...
+            };
+
+            // Asignar la lista al CollectionView
+            PedidosCollectionView.ItemsSource = Pedidos;
+        }
+
+        private void OnGuardarCambiosClicked(object sender, EventArgs e)
+        {
+            // Aquí pondrás la lógica para guardar cambios, por ejemplo a archivo binario
+        }
     }
 
-    private void CargarPedidos()
+    // Clase para representar un pedido
+    public class Pedido
     {
-        var pedidos = PedidoService.CargarPedidos();
-
-        _pedidos.Clear();
-        foreach (var pedido in pedidos)
-        {
-            _pedidos.Add(pedido);
-        }
+        public string Nombre { get; set; }
+        public string Detalle { get; set; }
+        public string Estado { get; set; }
+        public string Pastelitos { get; set; }
+        public bool Pagado { get; set; }
+        public bool Entregado { get; set; }
     }
 }
