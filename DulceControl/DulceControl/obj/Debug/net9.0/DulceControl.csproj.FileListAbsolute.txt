@@ -1,6 +1,0 @@
-J:\PROYECTOS C#\DulceControl\DulceControl\DulceControl\obj\Debug\net9.0\DulceControl.csproj.AssemblyReference.cache
-J:\PROYECTOS C#\DulceControl\DulceControl\DulceControl\obj\Debug\net9.0\DulceControl.GeneratedMSBuildEditorConfig.editorconfig
-J:\PROYECTOS C#\DulceControl\DulceControl\DulceControl\obj\Debug\net9.0\DulceControl.AssemblyInfoInputs.cache
-J:\PROYECTOS C#\DulceControl\DulceControl\DulceControl\obj\Debug\net9.0\DulceControl.AssemblyInfo.cs
-J:\PROYECTOS C#\DulceControl\DulceControl\DulceControl\obj\Debug\net9.0\DulceControl.csproj.CoreCompileInputs.cache
-J:\PROYECTOS C#\DulceControl\DulceControl\DulceControl\obj\Debug\net9.0\DulceControl.sourcelink.json

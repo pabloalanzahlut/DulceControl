@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\pedidoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|solutionrelative:pedidoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\pedidoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|solutionrelative:pedidoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\agregarpedidopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\agregarpedidopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\agregarpedidopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\agregarpedidopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\dulcecontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\dulcecontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\dulcecontrol\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{463B9319-8ADF-4886-89B0-238B825F5E66}|DulceControl\\DulceControl.csproj|solutionrelative:dulcecontrol\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|j:\\proyectos c#\\dulcecontrol\\dulcecontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234E70EC-1DA9-4FF2-BBFB-B738601484AC}|DulceControl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoForm.cs [Progettazione]",
+              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\PedidoForm.cs",
+              "RelativeDocumentMoniker": "PedidoForm.cs",
+              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\PedidoForm.cs [Progettazione]",
+              "RelativeToolTip": "PedidoForm.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:12:10.736Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "DulceControl\\AppShell.xaml.cs",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\AppShell.xaml.cs",
-              "RelativeToolTip": "DulceControl\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Title": "PedidoForm.cs",
+              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\PedidoForm.cs",
+              "RelativeDocumentMoniker": "PedidoForm.cs",
+              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\PedidoForm.cs",
+              "RelativeToolTip": "PedidoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:25:53.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AgregarPedidoPage.xaml.cs",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\AgregarPedidoPage.xaml.cs",
-              "RelativeDocumentMoniker": "DulceControl\\AgregarPedidoPage.xaml.cs",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\AgregarPedidoPage.xaml.cs",
-              "RelativeToolTip": "DulceControl\\AgregarPedidoPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:00:19.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AgregarPedidoPage.xaml",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\AgregarPedidoPage.xaml",
-              "RelativeDocumentMoniker": "DulceControl\\AgregarPedidoPage.xaml",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\AgregarPedidoPage.xaml",
-              "RelativeToolTip": "DulceControl\\AgregarPedidoPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-18T21:59:22.346Z",
+              "WhenOpened": "2025-05-19T21:02:05.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\App.xaml.cs",
-              "RelativeDocumentMoniker": "DulceControl\\App.xaml.cs",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\App.xaml.cs",
-              "RelativeToolTip": "DulceControl\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:54:08.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PedidoService.cs",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\Services\\PedidoService.cs",
-              "RelativeDocumentMoniker": "DulceControl\\Services\\PedidoService.cs",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\Services\\PedidoService.cs",
-              "RelativeToolTip": "DulceControl\\Services\\PedidoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:17:10.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Pedidos.cs",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\Models\\Pedidos.cs",
-              "RelativeDocumentMoniker": "DulceControl\\Models\\Pedidos.cs",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\Models\\Pedidos.cs",
-              "RelativeToolTip": "DulceControl\\Models\\Pedidos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:05:27.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DulceControl.csproj",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\DulceControl.csproj",
-              "RelativeDocumentMoniker": "DulceControl\\DulceControl.csproj",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\DulceControl.csproj",
-              "RelativeToolTip": "DulceControl\\DulceControl.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-18T21:01:42.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MauiProgramExtensions.cs",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\MauiProgramExtensions.cs",
-              "RelativeDocumentMoniker": "DulceControl\\MauiProgramExtensions.cs",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\MauiProgramExtensions.cs",
-              "RelativeToolTip": "DulceControl\\MauiProgramExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:00:27.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "App.xaml",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\App.xaml",
-              "RelativeDocumentMoniker": "DulceControl\\App.xaml",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\App.xaml",
-              "RelativeToolTip": "DulceControl\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-18T20:41:09.548Z",
+              "WhenOpened": "2025-05-19T20:47:52.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\AppShell.xaml",
-              "RelativeDocumentMoniker": "DulceControl\\AppShell.xaml",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\AppShell.xaml",
-              "RelativeToolTip": "DulceControl\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-18T20:40:26.667Z",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:39:26.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\MainPage.xaml",
-              "RelativeDocumentMoniker": "DulceControl\\MainPage.xaml",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\MainPage.xaml",
-              "RelativeToolTip": "DulceControl\\MainPage.xaml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-18T20:39:40.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "DulceControl\\MainPage.xaml.cs",
-              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\DulceControl\\MainPage.xaml.cs",
-              "RelativeToolTip": "DulceControl\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAwAAAAcAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "J:\\PROYECTOS C#\\DulceControl\\DulceControl\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:38:51.557Z",
+              "WhenOpened": "2025-05-19T20:38:40.826Z",
               "EditorCaption": ""
             }
           ]
