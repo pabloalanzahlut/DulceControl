@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
 namespace SistemaPedidos
+=======
+namespace Pastelitos
+>>>>>>> 58132ed (primer diseno pantalla pcipal)
 {
     public partial class Form1 : Form
     {
@@ -13,6 +17,7 @@ namespace SistemaPedidos
         public Form1()
         {
             InitializeComponent();
+<<<<<<< HEAD
             pedidos = PedidoManager.CargarPedidos();
 
             this.Text = "DulceControl";
@@ -93,6 +98,18 @@ namespace SistemaPedidos
                 btnConfirmar.Enabled = false;
             };
             control.Controls.Add(btnConfirmar);
+=======
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+>>>>>>> 58132ed (primer diseno pantalla pcipal)
         }
     }
 }
