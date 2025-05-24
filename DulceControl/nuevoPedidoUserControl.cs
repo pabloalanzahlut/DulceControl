@@ -38,10 +38,11 @@ namespace Pastelitos
                 Batata = (int)batata.Value
             };
 
-            string carpeta = Path.Combine(Application.StartupPath, "DatosPedidos");
-            Directory.CreateDirectory(carpeta);
+            // Ruta válida y siempre accesible
+            // C:\Users\User\Documents\Pastelitos\DatosPedidos
+            string carpeta = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "Pastelitos", "DatosPedidos");
+            Directory.CreateDirectory(carpeta); // crea todo el árbol de carpetas si no existe
 
-            // Puedes cambiar el nombre dinámicamente según botón o lógica
             string archivo = Path.Combine(carpeta, "pedidos1.bin");
 
             using (FileStream fs = new FileStream(archivo, FileMode.Append, FileAccess.Write))
@@ -52,7 +53,9 @@ namespace Pastelitos
                 writer.Write(pedido.Batata);
             }
 
-            MessageBox.Show("Pedido guardado correctamente.");
+            MessageBox.Show("✅ Pedido guardado correctamente en:\n" + archivo);
+
+            // Reset campos
             membrillo.Value = 0;
             batata.Value = 0;
             Cliente.Clear();
