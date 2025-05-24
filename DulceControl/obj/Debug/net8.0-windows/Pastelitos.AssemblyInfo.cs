@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pastelitos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b10bf13f22a988b2121e328b82bd16348195543")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pastelitos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pastelitos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,18 +1,81 @@
-C:\Users\Alan\Desktop\Pastelitos\bin\Debug\net8.0-windows\Pastelitos.exe
-C:\Users\Alan\Desktop\Pastelitos\bin\Debug\net8.0-windows\Pastelitos.dll.config
-C:\Users\Alan\Desktop\Pastelitos\bin\Debug\net8.0-windows\Pastelitos.deps.json
-C:\Users\Alan\Desktop\Pastelitos\bin\Debug\net8.0-windows\Pastelitos.runtimeconfig.json
-C:\Users\Alan\Desktop\Pastelitos\bin\Debug\net8.0-windows\Pastelitos.dll
-C:\Users\Alan\Desktop\Pastelitos\bin\Debug\net8.0-windows\Pastelitos.pdb
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.Form1.resources
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.Properties.Resources.resources
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.csproj.GenerateResource.cache
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.AssemblyInfoInputs.cache
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.AssemblyInfo.cs
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.csproj.CoreCompileInputs.cache
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.dll
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\refint\Pastelitos.dll
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.pdb
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\Pastelitos.genruntimeconfig.cache
-C:\Users\Alan\Desktop\Pastelitos\obj\Debug\net8.0-windows\ref\Pastelitos.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Pastelitos.exe
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Pastelitos.dll.config
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Pastelitos.deps.json
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Pastelitos.runtimeconfig.json
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Pastelitos.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Pastelitos.pdb
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\es-AR\Pastelitos.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Azure.Core.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Azure.Identity.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\System.ClientModel.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\System.Memory.Data.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.csproj.AssemblyReference.cache
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\SistemaPedidos.EstadisticasForm.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.estadisticaUserControl.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.Form1.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.listaPedidosUserControl.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.menuPrincipalUserControl.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.nuevoPedidoUserControl.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\SistemaPedidos.PedidoControl.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.Properties.Resources.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.Form1.es-AR.resources
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.csproj.GenerateResource.cache
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.GeneratedMSBuildEditorConfig.editorconfig
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.AssemblyInfoInputs.cache
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.AssemblyInfo.cs
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.csproj.CoreCompileInputs.cache
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.sourcelink.json
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\es-AR\Pastelitos.resources.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.csproj.Up2Date
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\refint\Pastelitos.dll
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.pdb
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\Pastelitos.genruntimeconfig.cache
+J:\PROYECTOS C#\DulceControl\DulceControl\obj\Debug\net8.0-windows\ref\Pastelitos.dll

@@ -7,10 +7,12 @@
     "name",
     "type",
     "neutral-value",
-    "neutral-comment"
+    "neutral-comment",
+    "es-AR"
   ],
   "VisibleColumnKeys": [
     "name",
+    "neutral-comment",
     "neutral-value"
   ]
 }
